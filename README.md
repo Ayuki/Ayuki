@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![snake gif](https://github.com/Ayuki/Ayuki/blob/output/github-contribution-grid-snake.gif)
 <!--
 **Ayuki/Ayuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
